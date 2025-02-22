@@ -34,4 +34,4 @@ jobs:
 
       - name: Terraform Apply Destroy Plan
         run: terraform apply -auto-approve tfplan-destroy
-        working-directory: Training Day-2/ .
+        working-directory: Training Day-2/
